@@ -76,8 +76,10 @@ LET'S CONNECT
 
 I’m available for freelance projects and collaborations.
 
-🔹 Upwork: (Add your link here)
+🔹 Upwork: (https://www.upwork.com/freelancers/~01736246aba051cc59?mp_source=share)
 
-🔹 Email: (Add your email here)
+🔹 Whatsapp: ()
+
+🔹 Email: (nuellogics11@gmail.com or emmanuelmartin2026@gmail.com)
 
 If you’re looking to automate processes or build AI-driven systems, feel free to reach out.
