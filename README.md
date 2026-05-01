@@ -26,17 +26,17 @@ I design and build AI-powered automation systems that eliminate repetitive tasks
 
 ### FEATURED PROJECTS
 
-#### [ AI Voice Booking Agent (Real Estate)](https://github.com) 
+#### AI Voice Booking Agent (Real Estate)
 *   **Concept:** A voice AI agent handling inbound calls, booking appointments, and qualifying leads.
 *   **Stack:** Vapi, OpenAI, APIs.
 *   **Outcome:** Reduced manual call handling and improved response speed.
 
-#### [ AI Customer Support Chatbot](https://github.com)
+#### AI Customer Support Chatbot
 *   **Concept:** Handled inquiries, FAQs, and basic troubleshooting without human intervention.
 *   **Stack:** OpenAI, n8n, API integrations.
 *   **Outcome:** Automated support flow and reduced response time.
 
-#### [ Lead Management & Automation System](https://github.com/ai-lead-gen-automation)
+#### [ Lead Management & Automation System](https://github.com/Nuel-Logics/ai-lead-gen-automation.git)
 *   **Concept:** Automated workflow to capture, process, and distribute leads across platforms.
 *   **Stack:** n8n, Airtable, Webhooks.
 *   **Outcome:** Eliminated manual tasks and improved lead tracking.
