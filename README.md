@@ -16,11 +16,11 @@ I design and build AI-powered automation systems that eliminate repetitive tasks
 ---
 
 ### TECH STACK
-![n8n](https://shields.io)
-![OpenAI](https://shields.io)
-![Python](https://shields.io)
-![Voice AI](https://shields.io)
-![APIs](https://shields.io)
+- **n8n/make.com.**
+- **Openai.**
+- **Python.**
+- **Vapi/Retell.**
+- **APIs & Webhooks.**
 
 ---
 
